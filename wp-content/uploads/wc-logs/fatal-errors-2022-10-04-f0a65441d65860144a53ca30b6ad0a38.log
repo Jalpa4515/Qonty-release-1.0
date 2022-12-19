@@ -1,0 +1,20 @@
+2022-10-04T12:42:52+00:00 CRITICAL Uncaught Error: Call to undefined function dd_filter() in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:334
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-settings.php(566): include()
+#1 /home/jedaide1/public_html/devqontyt/wp-config.php(96): require_once('/home/jedaide1/...')
+#2 /home/jedaide1/public_html/devqontyt/wp-load.php(50): require_once('/home/jedaide1/...')
+#3 /home/jedaide1/public_html/devqontyt/wp-admin/admin.php(34): require_once('/home/jedaide1/...')
+#4 /home/jedaide1/public_html/devqontyt/wp-admin/theme-editor.php(10): require_once('/home/jedaide1/...')
+#5 {main}
+  thrown in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 334
+
+2022-10-04T12:42:52+00:00 CRITICAL Uncaught Error: Call to undefined function dd_filter() in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:334
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-settings.php(566): include()
+#1 /home/jedaide1/public_html/devqontyt/wp-config.php(96): require_once('/home/jedaide1/...')
+#2 /home/jedaide1/public_html/devqontyt/wp-load.php(50): require_once('/home/jedaide1/...')
+#3 /home/jedaide1/public_html/devqontyt/wp-admin/admin.php(34): require_once('/home/jedaide1/...')
+#4 /home/jedaide1/public_html/devqontyt/wp-admin/theme-editor.php(10): require_once('/home/jedaide1/...')
+#5 {main}
+  thrown in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 334
+

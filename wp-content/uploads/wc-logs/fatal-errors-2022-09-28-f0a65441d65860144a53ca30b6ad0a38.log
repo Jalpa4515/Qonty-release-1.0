@@ -1,0 +1,24 @@
+2022-09-28T09:55:48+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 332
+
+2022-09-28T09:55:48+00:00 CRITICAL syntax error, unexpected 'return' (T_RETURN) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 332
+
+2022-09-28T10:52:13+00:00 CRITICAL Cannot redeclare bbloomer_checkout_fields_custom_attributes() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:364) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 377
+
+2022-09-28T10:52:13+00:00 CRITICAL Cannot redeclare bbloomer_checkout_fields_custom_attributes() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:364) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 377
+
+2022-09-28T10:59:25+00:00 CRITICAL Cannot redeclare bbloomer_checkout_fields_custom_attributes() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:364) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 372
+
+2022-09-28T10:59:25+00:00 CRITICAL Cannot redeclare bbloomer_checkout_fields_custom_attributes() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:364) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 372
+
+2022-09-28T11:04:19+00:00 CRITICAL syntax error, unexpected 'custom_override_checkout_field' (T_STRING) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 374
+
+2022-09-28T11:04:19+00:00 CRITICAL syntax error, unexpected 'custom_override_checkout_field' (T_STRING) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 374
+
+2022-09-28T11:07:35+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 388
+
+2022-09-28T11:07:35+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 388
+
+2022-09-28T11:49:46+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 398
+
+2022-09-28T11:49:46+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 398
+

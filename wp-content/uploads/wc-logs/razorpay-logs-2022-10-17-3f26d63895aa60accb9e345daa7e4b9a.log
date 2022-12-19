@@ -1,0 +1,13 @@
+2022-10-17T11:52:30+00:00 INFO Called process_payment with params order_id 12078
+2022-10-17T11:52:30+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 12078
+2022-10-17T11:52:34+00:00 INFO Updating razorpay webhook
+2022-10-17T11:52:35+00:00 INFO getRazorpayPaymentParams 12078
+2022-10-17T11:52:35+00:00 INFO createOrGetRazorpayOrderId 12078 and is1ccCheckout is set to no
+2022-10-17T11:52:35+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 12078 and is_magic_checkout_order is set to no
+2022-10-17T11:52:35+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id12078
+2022-10-17T11:52:35+00:00 INFO Called createRazorpayOrderId with params orderId 12078 and sessionKey razorpay_order_id12078
+2022-10-17T11:52:35+00:00 INFO Called getOrderCreationData with params orderId 12078
+2022-10-17T11:52:35+00:00 INFO Called getOrderCreationData with params orderId 12078 and is1ccOrder is set to no
+2022-10-17T11:52:35+00:00 INFO For order 12078
+2022-10-17T11:52:35+00:00 INFO {"receipt":12078,"amount":100,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"12078"}}
+2022-10-17T11:52:37+00:00 INFO For order session key razorpay_order_id12078

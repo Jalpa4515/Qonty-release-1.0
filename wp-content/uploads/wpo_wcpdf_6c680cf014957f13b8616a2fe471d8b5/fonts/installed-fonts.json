@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/Segoe-Normal",
+        "bold": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/Segoe-Bold",
+        "italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/currencies",
+        "bold": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/currencies",
+        "italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/currencies",
+        "bold_italic": "\/home\/853753.cloudwaysapps.com\/vncrekttab\/public_html\/wp-content\/uploads\/wpo_wcpdf_6c680cf014957f13b8616a2fe471d8b5\/fonts\/currencies"
+    }
+}

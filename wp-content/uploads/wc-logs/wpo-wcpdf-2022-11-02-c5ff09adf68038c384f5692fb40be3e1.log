@@ -1,0 +1,2 @@
+2022-11-02T10:16:23+00:00 INFO Template setting migrated from /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-11-02T10:16:25+00:00 CRITICAL Table 'vncrekttab.wpjc_wcpdf_invoice_number' doesn't exist

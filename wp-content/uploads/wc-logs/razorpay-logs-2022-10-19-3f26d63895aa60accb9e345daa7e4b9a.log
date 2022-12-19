@@ -1,0 +1,15 @@
+2022-10-19T01:01:53+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-19T06:00:17+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-19T06:00:23+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-19T06:25:07+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-19T06:25:11+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs

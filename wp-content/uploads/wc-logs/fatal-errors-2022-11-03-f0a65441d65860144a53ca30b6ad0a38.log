@@ -1,0 +1,432 @@
+2022-11-03T05:14:10+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T05:14:17+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T05:14:22+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T05:19:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-11-03T05:52:28+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-11-03T06:56:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T07:23:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T08:07:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T08:08:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T08:42:27+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:42:31+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:42:33+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:42:36+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:42:38+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:43:35+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:43:38+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:43:40+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:45:10+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:45:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:45:18+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 540672 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:47:29+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:47:33+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:47:35+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:49:29+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:49:31+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:49:33+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:49:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:49:35+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T08:54:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T08:54:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T09:07:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T09:08:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T09:33:12+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T09:33:16+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T09:33:19+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T09:34:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T09:34:39+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T09:34:47+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T09:34:49+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T09:40:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T09:40:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T10:42:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T11:41:48+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:41:54+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:42:00+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:42:27+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:42:37+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:46:15+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:46:25+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:46:43+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:47:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:47:59+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T11:57:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:02:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:02:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:03:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:29:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:31:12+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wpdb.php on line 2153
+
+2022-11-03T12:31:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:31:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:35:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:35:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T12:39:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T13:22:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T13:51:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T13:51:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:35:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:47:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:47:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:47:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:47:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:47:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:47:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:49:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:49:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:50:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:50:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:51:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:57:02+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:57:10+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:57:17+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:58:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T18:58:14+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+
+2022-11-03T19:02:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 310 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:371
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(310): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 371
+

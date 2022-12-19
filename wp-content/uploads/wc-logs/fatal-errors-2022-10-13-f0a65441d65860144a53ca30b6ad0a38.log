@@ -1,0 +1,20 @@
+2022-10-13T07:03:26+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 330
+
+2022-10-13T07:03:26+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 330
+
+2022-10-13T07:03:37+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 330
+
+2022-10-13T07:03:37+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 330
+
+2022-10-13T07:03:55+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 330
+
+2022-10-13T07:03:55+00:00 CRITICAL syntax error, unexpected '=', expecting ']' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 330
+
+2022-10-13T07:10:17+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 333
+
+2022-10-13T07:10:17+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 333
+
+2022-10-13T09:21:58+00:00 CRITICAL syntax error, unexpected '"billing_email"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 361
+
+2022-10-13T09:21:59+00:00 CRITICAL syntax error, unexpected '"billing_email"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 361
+

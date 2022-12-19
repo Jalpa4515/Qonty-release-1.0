@@ -1,0 +1,7 @@
+2022-11-04T05:18:05+00:00 ERROR cURL error 28: Operation timed out after 13595 milliseconds with 0 out of 0 bytes received
+2022-11-04T07:00:04+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-11-04T07:00:08+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs

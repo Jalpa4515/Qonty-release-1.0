@@ -1,0 +1,130 @@
+2022-11-01T08:02:12+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:02:18+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:04:27+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:04:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:04:41+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:04:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:07:58+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:08:07+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:08:12+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:09:32+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 544768 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:09:39+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:10:32+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:10:53+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:12:47+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:12:52+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:12:56+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:13:01+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:18:32+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:18:37+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:18:45+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 487424 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:18:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:18:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:19:01+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 491520 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:19:16+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:19:23+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:24:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:24:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:25:00+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:50:59+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:51:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:51:09+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:54:28+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:55:39+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:55:41+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 487424 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:55:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:56:31+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T08:56:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 544768 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T08:56:59+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T09:00:46+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T09:00:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 544768 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T09:00:55+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2169
+
+2022-11-01T09:00:57+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T09:01:00+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 544768 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T09:01:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 544768 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T09:01:09+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 782336 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T10:11:46+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-11-01T10:12:03+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-11-01T10:13:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-11-01T10:13:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-11-01T13:36:38+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 536576 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T13:36:42+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T13:36:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 569344 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-11-01T13:36:54+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 573440 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+

@@ -1,0 +1,649 @@
+2022-10-20T05:29:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-20T09:03:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-20T09:42:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:19+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:19+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T09:42:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:45+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:48+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:49+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:49+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:50+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:50+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:09:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:19:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:36+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:36+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:36+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:36+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:36+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:42+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:42:42+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:50+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:50+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:52+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:52+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:54+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:58+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:59+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T10:59:59+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php:271
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(307): WPBottomMenu->wp_bottom_menu()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/general-template.php(3058): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(650): wp_footer()
+#5 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(598): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /home in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/wp-bottom-menu/wp-bottom-menu.php on line 271
+
+2022-10-20T11:24:07+00:00 CRITICAL Uncaught TypeError: Argument 2 passed to Elementor\TemplateLibrary\Source_Local::on_save_post() must be an instance of WP_Post, instance of stdClass given, called in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and defined in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php:1089
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): Elementor\TemplateLibrary\Source_Local->on_save_post()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(476): WP_Hook->do_action()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/post.php(4673): do_action()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/post.php(4775): wp_insert_post()
+#5 /home/853753.cloudwaysapps. in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 1089
+
+2022-10-20T11:35:03+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 540672 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-10-20T11:37:47+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 540672 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-10-20T11:38:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-10-20T11:39:34+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 532480 bytes) in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/wp-db.php on line 2135
+
+2022-10-20T14:45:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-20T15:35:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message()
+#1 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters()
+#3 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message()
+#4 /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_ in /home/853753.cloudwaysapps.com/vncrekttab/public_html/wp-content/themes/farmart/functions.php on line 367
+

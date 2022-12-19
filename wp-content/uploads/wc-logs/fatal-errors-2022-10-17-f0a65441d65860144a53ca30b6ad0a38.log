@@ -1,0 +1,120 @@
+2022-10-17T06:10:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:369
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 369
+
+2022-10-17T10:00:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T11:49:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T11:49:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T11:49:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:11:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:11:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:11:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:11:32+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:12:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:12:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:12:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:28:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:32:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function empty_wc_add_to_cart_message(), 1 passed in /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:367
+Stack trace:
+#0 /home/jedaide1/public_html/devqontyt/wp-includes/class-wp-hook.php(309): empty_wc_add_to_cart_message('<a href="https:...')
+#1 /home/jedaide1/public_html/devqontyt/wp-includes/plugin.php(191): WP_Hook->apply_filters('<a href="https:...', Array)
+#2 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(133): apply_filters('wc_add_to_cart_...', '<a href="https:...', Array, true)
+#3 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(919): wc_add_to_cart_message(Array, true)
+#4 /home/jedaide1/public_html/devqontyt/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php(790): WC_Form_Handler::add_to_cart_handle in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 367
+
+2022-10-17T12:58:08+00:00 CRITICAL Cannot redeclare divi_engine_remove_required_fields_checkout() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:372) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 377
+
+2022-10-17T12:58:08+00:00 CRITICAL Cannot redeclare divi_engine_remove_required_fields_checkout() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:372) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 377
+
+2022-10-17T12:58:32+00:00 CRITICAL Cannot redeclare divi_engine_remove_required_fields_checkout() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:372) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 377
+
+2022-10-17T12:58:32+00:00 CRITICAL Cannot redeclare divi_engine_remove_required_fields_checkout() (previously declared in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php:372) in /home/jedaide1/public_html/devqontyt/wp-content/themes/farmart/functions.php on line 377
+

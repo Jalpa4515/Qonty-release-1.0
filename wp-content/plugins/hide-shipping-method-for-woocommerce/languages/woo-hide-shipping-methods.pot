@@ -1,0 +1,1757 @@
+# Copyright (C) 2022 theDotstore
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Shipping Method For WooCommerce Pro 1.3.2\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-07-13 06:12:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language-Team: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-woo-hide-shipping-methods-admin.php:116
+#: admin/class-woo-hide-shipping-methods-admin.php:194
+#: admin/partials/form-whsm.php:790 admin/partials/form-whsm.php:1154
+msgid "Country"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:117
+#: admin/partials/form-whsm.php:796 admin/partials/form-whsm.php:1160
+msgid "State"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:118
+#: admin/partials/form-whsm.php:798 admin/partials/form-whsm.php:1162
+msgid "Postcode"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:119
+#: admin/partials/form-whsm.php:800 admin/partials/form-whsm.php:1164
+msgid "Zone"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:120
+#: admin/class-woo-hide-shipping-methods-admin.php:198
+#: admin/partials/form-whsm.php:821 admin/partials/form-whsm.php:1185
+msgid "Cart contains product"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:121
+#: admin/partials/form-whsm.php:827 admin/partials/form-whsm.php:1191
+msgid "Cart contains variable product"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:122
+#: admin/class-woo-hide-shipping-methods-admin.php:200
+#: admin/partials/form-whsm.php:841 admin/partials/form-whsm.php:1205
+msgid "Cart contains category's product"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:123
+#: admin/class-woo-hide-shipping-methods-admin.php:201
+#: admin/partials/form-whsm.php:843 admin/partials/form-whsm.php:1207
+msgid "Cart contains tag's product"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:124
+#: admin/partials/form-whsm.php:850 admin/partials/form-whsm.php:1213
+msgid "Cart contains SKU's product"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:125
+#: admin/class-woo-hide-shipping-methods-admin.php:203
+#: admin/partials/form-whsm.php:895 admin/partials/form-whsm.php:1264
+msgid "User"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:126
+#: admin/partials/form-whsm.php:901 admin/partials/form-whsm.php:1270
+msgid "User Role"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:127
+#: admin/class-woo-hide-shipping-methods-admin.php:205
+msgid "Cart Subtotal (Before Discount)"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:128
+msgid "Cart Subtotal (After Discount)"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:129
+#: admin/class-woo-hide-shipping-methods-admin.php:214
+#: admin/partials/form-whsm.php:949 admin/partials/form-whsm.php:1315
+msgid "Quantity"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:130
+#: admin/partials/form-whsm.php:1321
+msgid "Weight"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:131
+#: admin/partials/form-whsm.php:957 admin/partials/form-whsm.php:1323
+msgid "Length %s"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:132
+#: admin/partials/form-whsm.php:959 admin/partials/form-whsm.php:1325
+msgid "Width %s"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:133
+#: admin/partials/form-whsm.php:961 admin/partials/form-whsm.php:1327
+msgid "Height %s"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:134
+#: admin/partials/form-whsm.php:963 admin/partials/form-whsm.php:1329
+msgid "Volume %s"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:135
+#: admin/partials/form-whsm.php:965 admin/partials/form-whsm.php:1331
+msgid "Coupon"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:136
+#: admin/partials/form-whsm.php:967 admin/partials/form-whsm.php:1333
+msgid "Shipping Class"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:137
+msgid "Min Quantity"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:138
+#: admin/partials/form-whsm.php:1531 admin/partials/form-whsm.php:1955
+#: admin/partials/form-whsm.php:2386
+msgid "Max Quantity"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:139
+msgid "Amount"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:140
+#: admin/class-woo-hide-shipping-methods-admin.php:215
+#: admin/partials/form-whsm.php:1019 admin/partials/form-whsm.php:1035
+#: admin/partials/form-whsm.php:1383
+msgid "Equal to ( = )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:141
+#: admin/class-woo-hide-shipping-methods-admin.php:216
+#: admin/partials/form-whsm.php:1029 admin/partials/form-whsm.php:1037
+#: admin/partials/form-whsm.php:1385
+msgid "Not Equal to ( != )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:142
+#: admin/class-woo-hide-shipping-methods-admin.php:217
+#: admin/partials/form-whsm.php:1021
+msgid "Less or Equal to ( <= )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:143
+#: admin/class-woo-hide-shipping-methods-admin.php:218
+msgid "Less then ( < )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:144
+#: admin/class-woo-hide-shipping-methods-admin.php:219
+msgid "greater or Equal to ( >= )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:145
+#: admin/class-woo-hide-shipping-methods-admin.php:220
+msgid "greater then ( > )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:146
+#: admin/class-woo-hide-shipping-methods-admin.php:147
+#: admin/class-woo-hide-shipping-methods-admin.php:221
+#: admin/class-woo-hide-shipping-methods-admin.php:222
+msgid "Please enter 3 or more characters"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:148
+#: admin/class-woo-hide-shipping-methods-admin.php:223
+msgid "Select category"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:149
+#: admin/class-woo-hide-shipping-methods-admin.php:224
+msgid "Select some options"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:150
+#: admin/class-woo-hide-shipping-methods-admin.php:225
+#: admin/partials/form-whsm.php:2053 admin/partials/form-whsm.php:2201
+msgid "Select Category"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:151
+#: admin/class-woo-hide-shipping-methods-admin.php:226
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:227
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:325
+msgid "Delete"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:152
+#: admin/partials/form-whsm.php:2420
+msgid "Cart Qty"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:153
+#: admin/partials/form-whsm.php:2548
+msgid "Cart Weight"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:154
+msgid "Min Weight"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:155
+#: admin/partials/form-whsm.php:2514
+msgid "Max Weight"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:156
+#: admin/partials/form-whsm.php:2674
+msgid "Cart Subtotal"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:157
+msgid "Cart Total"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:158
+#: admin/partials/form-whsm.php:2684
+msgid "Min Subtotal"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:159
+#: admin/partials/form-whsm.php:2639 admin/partials/form-whsm.php:2694
+msgid "Max Subtotal"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:160
+msgid "Min Total"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:161
+msgid "Max Total"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:162
+#: admin/class-woo-hide-shipping-methods-admin.php:227
+msgid "Please enter"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:163
+#: admin/class-woo-hide-shipping-methods-admin.php:228
+msgid "or more characters"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:164
+#: admin/class-woo-hide-shipping-methods-admin.php:229
+#: admin/partials/form-whsm.php:788 admin/partials/form-whsm.php:1152
+msgid "Location Specific"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:165
+#: admin/class-woo-hide-shipping-methods-admin.php:230
+#: admin/partials/form-whsm.php:819 admin/partials/form-whsm.php:1183
+msgid "Product Specific"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:166
+#: admin/class-woo-hide-shipping-methods-admin.php:231
+#: admin/partials/form-whsm.php:893 admin/partials/form-whsm.php:1262
+msgid "User Specific"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:167
+#: admin/class-woo-hide-shipping-methods-admin.php:232
+#: admin/partials/form-whsm.php:917 admin/partials/form-whsm.php:1285
+msgid "Cart Specific"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:168
+#: admin/class-woo-hide-shipping-methods-admin.php:233
+#: admin/partials/form-whsm.php:993 admin/partials/form-whsm.php:1359
+msgid "Checkout Specific"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:169
+#: admin/partials/form-whsm.php:998 admin/partials/form-whsm.php:1364
+msgid "Payment Method"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:170
+#: admin/class-woo-hide-shipping-methods-admin.php:235
+#: admin/partials/form-whsm.php:866 admin/partials/form-whsm.php:1232
+#: admin/partials/form-whsm.php:1248 admin/partials/form-whsm.php:1255
+msgid "Attribute Specific"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:171
+msgid "Max qty should greater then min qty"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:172
+msgid "Max weight should greater then min weight"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:173
+msgid "Max subtotal should greater then min subtotal"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:174
+msgid "Please fill some required field in advance hide shipping rule section"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:175
+msgid ""
+"Please add at least one rule in Advance rule OR Select \"No Extra Rule\" "
+"option from Apply Extra Rule "
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:177
+#: admin/class-woo-hide-shipping-methods-admin.php:237
+#: admin/partials/form-whsm.php:1053 admin/partials/form-whsm.php:1094
+msgid "Note: "
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:178
+#: admin/class-woo-hide-shipping-methods-admin.php:238
+#: admin/partials/form-whsm.php:343 admin/partials/form-whsm.php:377
+#: admin/partials/form-whsm.php:412
+msgid "Click Here"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:179
+msgid "This rule will apply when you would apply coupun in front side. "
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:183
+#: admin/partials/form-whsm.php:1054
+msgid "Please enter each postcode on new line."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:184
+#: admin/partials/form-whsm.php:1095
+msgid ""
+"This rule will only apply when all (width, height and length) has non-zero "
+"value."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:195
+#: admin/partials/form-whsm.php:804 admin/partials/form-whsm.php:811
+#: admin/partials/form-whsm.php:1168 admin/partials/form-whsm.php:1175
+msgid "State ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:196
+#: admin/partials/form-whsm.php:805 admin/partials/form-whsm.php:812
+#: admin/partials/form-whsm.php:1169 admin/partials/form-whsm.php:1176
+msgid "Postcode ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:197
+#: admin/partials/form-whsm.php:806 admin/partials/form-whsm.php:813
+#: admin/partials/form-whsm.php:1170 admin/partials/form-whsm.php:1177
+msgid "Zone ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:199
+#: admin/partials/form-whsm.php:831 admin/partials/form-whsm.php:836
+#: admin/partials/form-whsm.php:1195 admin/partials/form-whsm.php:1200
+msgid "Cart contains variable product ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:202
+#: admin/partials/form-whsm.php:854 admin/partials/form-whsm.php:859
+#: admin/partials/form-whsm.php:1217 admin/partials/form-whsm.php:1222
+msgid "Cart contains SKU's product ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:204
+#: admin/partials/form-whsm.php:905 admin/partials/form-whsm.php:910
+#: admin/partials/form-whsm.php:1274 admin/partials/form-whsm.php:1279
+msgid "User Role ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:206
+msgid "Cart Subtotal (After Discount) ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:207
+msgid "Weight (kg) ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:208
+#: admin/partials/form-whsm.php:972 admin/partials/form-whsm.php:983
+#: admin/partials/form-whsm.php:1338 admin/partials/form-whsm.php:1349
+msgid "Length %s ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:209
+#: admin/partials/form-whsm.php:973 admin/partials/form-whsm.php:984
+#: admin/partials/form-whsm.php:1339 admin/partials/form-whsm.php:1350
+msgid "Width %s ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:210
+#: admin/partials/form-whsm.php:974 admin/partials/form-whsm.php:985
+#: admin/partials/form-whsm.php:1340 admin/partials/form-whsm.php:1351
+msgid "Height %s ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:211
+#: admin/partials/form-whsm.php:975 admin/partials/form-whsm.php:986
+#: admin/partials/form-whsm.php:1341 admin/partials/form-whsm.php:1352
+msgid "Volume %s ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:212
+#: admin/partials/form-whsm.php:976 admin/partials/form-whsm.php:987
+#: admin/partials/form-whsm.php:1342 admin/partials/form-whsm.php:1353
+msgid "Coupon ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:213
+#: admin/partials/form-whsm.php:977 admin/partials/form-whsm.php:988
+#: admin/partials/form-whsm.php:1343 admin/partials/form-whsm.php:1354
+msgid "Shipping Class ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:234
+#: admin/partials/form-whsm.php:1002 admin/partials/form-whsm.php:1007
+#: admin/partials/form-whsm.php:1368 admin/partials/form-whsm.php:1373
+msgid "Payment Method ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:236
+#: admin/partials/form-whsm.php:882 admin/partials/form-whsm.php:887
+#: admin/partials/form-whsm.php:1249 admin/partials/form-whsm.php:1256
+msgid "Attribute ( In Pro )"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:251
+#: admin/class-woo-hide-shipping-methods-admin.php:252
+#: admin/partials/class-whsm-shipping-method-page.php:30
+#: admin/partials/class-whsm-shipping-method-page.php:31
+msgid "Hide Shipping For WooCommerce"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:300
+msgid "List Per Page"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1016
+#: admin/class-woo-hide-shipping-methods-admin.php:1017
+msgid "Guest"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1080
+msgid "Select Class"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1586
+#: admin/class-woo-hide-shipping-methods-admin.php:1592
+msgid "General Setting"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1587
+#: admin/class-woo-hide-shipping-methods-admin.php:1594
+msgid "Get Started"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1588
+#: admin/class-woo-hide-shipping-methods-admin.php:1595
+#: admin/partials/header/plugin-header.php:148
+#: admin/partials/whsm-information-page.php:23
+msgid "Quick info"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1593
+#: admin/partials/header/plugin-header.php:134
+msgid "Manage Conditional Hide Shipping Rules"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1616
+msgid "Hide shipping rule created."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1618
+msgid "Hide shipping rule updated."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1620
+msgid "Hide shipping rule deleted."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1622
+msgid "Hide shipping rule duplicated."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1624
+msgid "Hide shipping rule disabled."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1626
+msgid "Hide shipping rule enabled."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1629
+msgid "There was an error with saving data."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1631
+#: admin/class-woo-hide-shipping-methods-admin.php:1641
+msgid "There was an error with security check."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:1638
+msgid "Settings saved successfully"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2011
+msgid "If you like "
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2011
+msgid "Hide Shipping Method For WooCommerce "
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2011
+msgid "plugin, please leave us &#9733;&#9733;&#9733;&#9733;&#9733; ratings on "
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2011
+msgid "DotStore"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2398
+msgid "Data has been Exported!"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2421
+msgid "Please upload a file to import"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2428
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2638
+msgid "Blank .json file uploaded."
+msgstr ""
+
+#: admin/class-woo-hide-shipping-methods-admin.php:2641
+msgid "Data has been Imported!"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:34
+msgid "Title"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:35
+msgid "Shipping Method"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:36
+#: admin/partials/form-whsm.php:291
+msgid "Status"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:37
+msgid "Date"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:139
+msgid "No rule found."
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:226
+msgid "Edit"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:228
+msgid "Duplicate"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:244
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:270
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:293
+msgid "Everywhere"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:323
+msgid "Disable"
+msgstr ""
+
+#: admin/list-tables/class-wc-hide-shipping-methods-table.php:324
+msgid "Enable"
+msgstr ""
+
+#: admin/partials/class-whsm-shipping-method-page.php:719
+msgid "Error saving shipping method."
+msgstr ""
+
+#: admin/partials/class-whsm-shipping-method-page.php:805
+msgid "Conditional Hide Shipping Method Rules"
+msgstr ""
+
+#: admin/partials/class-whsm-shipping-method-page.php:809
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/class-whsm-shipping-method-page.php:814
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/partials/class-whsm-shipping-method-page.php:822
+msgid "Search Hide Shipping Rule"
+msgstr ""
+
+#: admin/partials/form-whsm.php:197
+msgid "Edit Conditional Hide Shipping Method Rules"
+msgstr ""
+
+#: admin/partials/form-whsm.php:244
+msgid "Add Conditional Hide Shipping Method Rules"
+msgstr ""
+
+#: admin/partials/form-whsm.php:280
+msgid "Save changes"
+msgstr ""
+
+#: admin/partials/form-whsm.php:292
+msgid "Enable this will hide shipping method from customers"
+msgstr ""
+
+#: admin/partials/form-whsm.php:303
+msgid "Hide Shipping Rule Name"
+msgstr ""
+
+#: admin/partials/form-whsm.php:305
+msgid "This can be rule name"
+msgstr ""
+
+#: admin/partials/form-whsm.php:312
+msgid "Enter hide shipping rule name"
+msgstr ""
+
+#: admin/partials/form-whsm.php:321
+msgid "Select Shipping Source"
+msgstr ""
+
+#: admin/partials/form-whsm.php:322 admin/partials/form-whsm.php:356
+#: admin/partials/form-whsm.php:391
+msgid "Shipping method which you want to hide on front side"
+msgstr ""
+
+#: admin/partials/form-whsm.php:329 admin/partials/form-whsm.php:363
+#: admin/partials/form-whsm.php:398
+msgid "Default shipping method and Compatible with Hide shipping method plugin"
+msgstr ""
+
+#: admin/partials/form-whsm.php:336 admin/partials/form-whsm.php:370
+#: admin/partials/form-whsm.php:405
+msgid "None Compatible with Hide shipping method plugin"
+msgstr ""
+
+#: admin/partials/form-whsm.php:341 admin/partials/form-whsm.php:375
+#: admin/partials/form-whsm.php:410
+msgid "You need to enter shipping method value manually. "
+msgstr ""
+
+#: admin/partials/form-whsm.php:355 admin/partials/form-whsm.php:390
+msgid "Select Shipping Source - "
+msgstr ""
+
+#: admin/partials/form-whsm.php:355 admin/partials/form-whsm.php:390
+#: admin/partials/form-whsm.php:564 admin/partials/form-whsm.php:574
+#: admin/partials/form-whsm.php:586 admin/partials/form-whsm.php:595
+#: admin/partials/form-whsm.php:604 admin/partials/form-whsm.php:621
+#: admin/partials/form-whsm.php:645 admin/partials/form-whsm.php:655
+#: admin/partials/form-whsm.php:667 admin/partials/form-whsm.php:676
+#: admin/partials/form-whsm.php:685 admin/partials/form-whsm.php:702
+#: admin/partials/whsm-general-setting.php:61
+#: admin/partials/whsm-general-setting.php:72
+msgid "Available in pro"
+msgstr ""
+
+#: admin/partials/form-whsm.php:426 admin/partials/whsm-general-setting.php:102
+msgid "Select shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:427
+msgid "Select shipping method which you want to hide on front side"
+msgstr ""
+
+#: admin/partials/form-whsm.php:439 admin/partials/form-whsm.php:742
+#: admin/partials/form-whsm.php:1435 admin/partials/form-whsm.php:1510
+#: admin/partials/form-whsm.php:1649 admin/partials/form-whsm.php:1790
+#: admin/partials/form-whsm.php:1934 admin/partials/form-whsm.php:2084
+#: admin/partials/form-whsm.php:2233
+#: admin/partials/whsm-general-setting.php:115
+msgid "All"
+msgstr ""
+
+#: admin/partials/form-whsm.php:463
+msgid "Shipping Method Option"
+msgstr ""
+
+#: admin/partials/form-whsm.php:464 admin/partials/form-whsm.php:565
+#: admin/partials/form-whsm.php:646
+msgid ""
+"Enter shipping method option with comma separated which you want to hide on "
+"front side.(Remove extra space)"
+msgstr ""
+
+#: admin/partials/form-whsm.php:473
+msgid "Apply Extra Rule"
+msgstr ""
+
+#: admin/partials/form-whsm.php:474 admin/partials/form-whsm.php:575
+#: admin/partials/form-whsm.php:656
+msgid "Apply this extra rule to hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:478 admin/partials/form-whsm.php:579
+#: admin/partials/form-whsm.php:660
+msgid "No Extra Rule"
+msgstr ""
+
+#: admin/partials/form-whsm.php:479 admin/partials/form-whsm.php:580
+#: admin/partials/form-whsm.php:661
+msgid "Advance Rule"
+msgstr ""
+
+#: admin/partials/form-whsm.php:485
+msgid "Start Date"
+msgstr ""
+
+#: admin/partials/form-whsm.php:486 admin/partials/form-whsm.php:495
+msgid "Select the date on which you want to hide shipping methods"
+msgstr ""
+
+#: admin/partials/form-whsm.php:489 admin/partials/form-whsm.php:590
+#: admin/partials/form-whsm.php:671
+msgid "Select start date"
+msgstr ""
+
+#: admin/partials/form-whsm.php:494
+msgid "End Date"
+msgstr ""
+
+#: admin/partials/form-whsm.php:498 admin/partials/form-whsm.php:599
+#: admin/partials/form-whsm.php:680
+msgid "Select end date"
+msgstr ""
+
+#: admin/partials/form-whsm.php:503
+msgid "Days of the Week"
+msgstr ""
+
+#: admin/partials/form-whsm.php:504
+msgid ""
+"Select days on which you want to hide shipping methods. This will match "
+"with site <a href=\"%s\" target=\"_blank\">Timezone</a>. </p>"
+msgstr ""
+
+#: admin/partials/form-whsm.php:515
+msgid "Sunday"
+msgstr ""
+
+#: admin/partials/form-whsm.php:516
+msgid "Monday"
+msgstr ""
+
+#: admin/partials/form-whsm.php:517
+msgid "Tuesday"
+msgstr ""
+
+#: admin/partials/form-whsm.php:518
+msgid "Wednesday"
+msgstr ""
+
+#: admin/partials/form-whsm.php:519
+msgid "Thursday"
+msgstr ""
+
+#: admin/partials/form-whsm.php:520
+msgid "Friday"
+msgstr ""
+
+#: admin/partials/form-whsm.php:521
+msgid "Saturday"
+msgstr ""
+
+#: admin/partials/form-whsm.php:539
+msgid "Time"
+msgstr ""
+
+#: admin/partials/form-whsm.php:540
+msgid ""
+"Select time range on which you want to hide shipping methods. This will "
+"match with site <a href=\"%s\" target=\"_blank\">Timezone</a>.</p>"
+msgstr ""
+
+#: admin/partials/form-whsm.php:549 admin/partials/form-whsm.php:631
+#: admin/partials/form-whsm.php:712
+msgid "From:"
+msgstr ""
+
+#: admin/partials/form-whsm.php:552 admin/partials/form-whsm.php:633
+#: admin/partials/form-whsm.php:714
+msgid "To:"
+msgstr ""
+
+#: admin/partials/form-whsm.php:564 admin/partials/form-whsm.php:645
+msgid "Shipping Method Option - "
+msgstr ""
+
+#: admin/partials/form-whsm.php:574 admin/partials/form-whsm.php:655
+msgid "Apply Extra Rule - "
+msgstr ""
+
+#: admin/partials/form-whsm.php:586 admin/partials/form-whsm.php:667
+msgid "Start Date - "
+msgstr ""
+
+#: admin/partials/form-whsm.php:587 admin/partials/form-whsm.php:668
+msgid "Select start date on which date you want to hide shipping method."
+msgstr ""
+
+#: admin/partials/form-whsm.php:595 admin/partials/form-whsm.php:676
+msgid "End Date - "
+msgstr ""
+
+#: admin/partials/form-whsm.php:596 admin/partials/form-whsm.php:677
+msgid "Select end date on which date you want to hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:604 admin/partials/form-whsm.php:685
+msgid "Days of the Week - "
+msgstr ""
+
+#: admin/partials/form-whsm.php:605 admin/partials/form-whsm.php:686
+msgid ""
+"Select days on which day you want to hide shipping method. This rule match "
+"with current day which is set by wordpress <a href=\"%s\" "
+"target=\"_blank\">Timezone</a>."
+msgstr ""
+
+#: admin/partials/form-whsm.php:615 admin/partials/form-whsm.php:696
+msgid "Select days of the week"
+msgstr ""
+
+#: admin/partials/form-whsm.php:621 admin/partials/form-whsm.php:702
+msgid "Time - "
+msgstr ""
+
+#: admin/partials/form-whsm.php:622 admin/partials/form-whsm.php:703
+msgid ""
+"Select time on which time shipping method will hide on the website. This "
+"rule match with current time which is set by wordpress <a href=\"%s\" "
+"target=\"_blank\">Timezone</a>."
+msgstr ""
+
+#: admin/partials/form-whsm.php:729
+msgid "Basic Hide Shipping Rules"
+msgstr ""
+
+#: admin/partials/form-whsm.php:732 admin/partials/form-whsm.php:1491
+#: admin/partials/form-whsm.php:1630 admin/partials/form-whsm.php:1771
+#: admin/partials/form-whsm.php:1915 admin/partials/form-whsm.php:2065
+#: admin/partials/form-whsm.php:2214 admin/partials/form-whsm.php:2359
+#: admin/partials/form-whsm.php:2487 admin/partials/form-whsm.php:2612
+msgid "+ Add Rule"
+msgstr ""
+
+#: admin/partials/form-whsm.php:736 admin/partials/form-whsm.php:1429
+#: admin/partials/form-whsm.php:1503 admin/partials/form-whsm.php:1642
+#: admin/partials/form-whsm.php:1783 admin/partials/form-whsm.php:1927
+#: admin/partials/form-whsm.php:2077 admin/partials/form-whsm.php:2226
+msgid "below"
+msgstr ""
+
+#: admin/partials/form-whsm.php:740 admin/partials/form-whsm.php:1433
+#: admin/partials/form-whsm.php:1508 admin/partials/form-whsm.php:1647
+#: admin/partials/form-whsm.php:1788 admin/partials/form-whsm.php:1932
+#: admin/partials/form-whsm.php:2082 admin/partials/form-whsm.php:2231
+msgid "Any One"
+msgstr ""
+
+#: admin/partials/form-whsm.php:745 admin/partials/form-whsm.php:1438
+#: admin/partials/form-whsm.php:1513 admin/partials/form-whsm.php:1652
+#: admin/partials/form-whsm.php:1793 admin/partials/form-whsm.php:1937
+#: admin/partials/form-whsm.php:2087 admin/partials/form-whsm.php:2236
+msgid "rule match"
+msgstr ""
+
+#: admin/partials/form-whsm.php:878 admin/partials/form-whsm.php:1241
+msgid "Not Found Attribute"
+msgstr ""
+
+#: admin/partials/form-whsm.php:928 admin/partials/form-whsm.php:1295
+msgid "Cart Subtotal (Before Discount) "
+msgstr ""
+
+#: admin/partials/form-whsm.php:934 admin/partials/form-whsm.php:938
+#: admin/partials/form-whsm.php:943 admin/partials/form-whsm.php:1301
+#: admin/partials/form-whsm.php:1305 admin/partials/form-whsm.php:1310
+msgid "Cart Subtotal (After Discount) "
+msgstr ""
+
+#: admin/partials/form-whsm.php:955 admin/partials/form-whsm.php:971
+#: admin/partials/form-whsm.php:982 admin/partials/form-whsm.php:1337
+#: admin/partials/form-whsm.php:1348
+msgid "Weight "
+msgstr ""
+
+#: admin/partials/form-whsm.php:1023
+msgid "Less than ( < )"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1025
+msgid "Greater or Equal to ( >= )"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1027
+msgid "Greater than ( > )"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1078
+msgid ""
+"<p><b style=\"color: red;\">Note: </b>This rule will apply when you would "
+"apply coupun in front side.\n"
+"\t                                                            <a "
+"href=\"%s\" target=\"_blank\">Click Here</a>.</p>"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1411
+msgid ""
+"Apply Shipping Rules match between Basic Hide Shipping and Advanced Hide "
+"Shipping"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1414
+msgid ""
+"Basic Hide Shipping Rules and Advanced Hide Shipping Rules with the "
+"condition of"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1418
+msgid "AND"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1420
+msgid "OR"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1426
+msgid "Advanced Hide Shipping Rules"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1449 admin/partials/form-whsm.php:1480
+#: admin/partials/form-whsm.php:1487
+msgid "Product Qty"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1450 admin/partials/form-whsm.php:1618
+#: admin/partials/form-whsm.php:1625
+msgid "Product Weight"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1451 admin/partials/form-whsm.php:1759
+#: admin/partials/form-whsm.php:1766
+msgid "Product Subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1452 admin/partials/form-whsm.php:1900
+#: admin/partials/form-whsm.php:1911
+msgid "Category Qty"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1453 admin/partials/form-whsm.php:2048
+#: admin/partials/form-whsm.php:2061
+msgid "Category Weight"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1454 admin/partials/form-whsm.php:2196
+msgid "Category Subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1455 admin/partials/form-whsm.php:2345
+#: admin/partials/form-whsm.php:2350 admin/partials/form-whsm.php:2376
+#: admin/partials/form-whsm.php:2379
+msgid "Total Cart Qty"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1456 admin/partials/form-whsm.php:2472
+#: admin/partials/form-whsm.php:2477 admin/partials/form-whsm.php:2482
+#: admin/partials/form-whsm.php:2504
+msgid "Total Cart Weight"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1457 admin/partials/form-whsm.php:2597
+#: admin/partials/form-whsm.php:2602 admin/partials/form-whsm.php:2629
+msgid "Total Cart Subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1523 admin/partials/form-whsm.php:1662
+#: admin/partials/form-whsm.php:1803
+msgid "Product"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1524
+msgid "Selected product(s) quantity range will hide shipping methods"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1527 admin/partials/form-whsm.php:1951
+msgid "Min Quantity *"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1528
+msgid "Set selected product(s) minimum quantity which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1532
+msgid "Set selected product(s) maximum quantity which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1579 admin/partials/form-whsm.php:2007
+#: admin/partials/form-whsm.php:2430
+msgid "Min quantity"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1587 admin/partials/form-whsm.php:2016
+#: admin/partials/form-whsm.php:2439
+msgid "Max quantity"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1663
+msgid "Selected product(s) weight range will hide shipping methods"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1667 admin/partials/form-whsm.php:2101
+#: admin/partials/form-whsm.php:2509
+msgid "Min Weight *"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1668
+msgid "Set selected product(s) minimum weight which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1672 admin/partials/form-whsm.php:2105
+msgid "Max Weight "
+msgstr ""
+
+#: admin/partials/form-whsm.php:1673
+msgid "Set selected product(s) maximum weight which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1721 admin/partials/form-whsm.php:2157
+#: admin/partials/form-whsm.php:2558
+msgid "Min weight"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1729 admin/partials/form-whsm.php:2165
+#: admin/partials/form-whsm.php:2566
+msgid "Max weight"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1804
+msgid "Selected product(s) subtotal range will hide shipping methods"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1808 admin/partials/form-whsm.php:2251
+#: admin/partials/form-whsm.php:2634
+msgid "Min Subtotal *"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1809
+msgid "Set selected product(s) minimum subtotal which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1813 admin/partials/form-whsm.php:2256
+msgid "Max Subtotal "
+msgstr ""
+
+#: admin/partials/form-whsm.php:1814
+msgid "Set selected product(s) maximum subtotal which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1862 admin/partials/form-whsm.php:2306
+msgid "Min subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1870 admin/partials/form-whsm.php:2314
+msgid "Max subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1947 admin/partials/form-whsm.php:2097
+#: admin/partials/form-whsm.php:2246
+msgid "Category"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1948
+msgid "Selected category(ies) quantity range will hide shipping methods"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1952
+msgid "Set selected category(ies) minimum quantity which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:1956
+msgid "Set selected category(ies) maximum quantity which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2098
+msgid "Selected category(ies) weight range will hide shipping methods"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2102
+msgid "Set selected category(ies) minimum weight which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2106
+msgid "Set selected category(ies) maximum weight which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2209
+msgid "Category subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2247
+msgid "Selected category(ies) subtotal range will hide shipping methods"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2252
+msgid "Set selected category(ies) minimum subtotal which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2257
+msgid "Set selected category(ies) maximum subtotal which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2355
+msgid "Cost on Total Cart Qty"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2377
+msgid "Total cart quantity count"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2382
+msgid "Min Quantity * "
+msgstr ""
+
+#: admin/partials/form-whsm.php:2383
+msgid "Set total cart minimum quantity which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2387
+msgid "Set total cart maximum quantity which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2505
+msgid "Total cart weight"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2510
+msgid "Set product(s) total cart minimum weight which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2515
+msgid "Set product(s) total cart maximum weight which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2607
+msgid "Cost on Total Cart Subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2630
+msgid "Total cart subtotal"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2635
+msgid "Set product(s) total cart minimum subtotal which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2640
+msgid "Set product(s) total cart maximum subtotal which hide shipping method"
+msgstr ""
+
+#: admin/partials/form-whsm.php:2748
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:13
+#: admin/partials/whsm-information-page.php:10
+msgid "Pro Version"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:15
+#: admin/partials/whsm-information-page.php:12
+msgid "Free Version"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:35
+#: admin/partials/whsm-information-page.php:32
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:332
+#: woo-hide-shipping-methods.php:312
+msgid "Hide Shipping Method For WooCommerce"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:36
+msgid ""
+"Make free shipping or local pickups work properly for your store by hiding "
+"all or a few shipping methods from the cart/checkout page."
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:47
+msgid "Quick Support"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:56
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:67
+msgid "My Account"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:77
+#: admin/partials/header/plugin-header.php:88
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:121
+#: admin/partials/header/plugin-header.php:127
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:141
+msgid "Import / Export"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:145
+msgid "About Plugin"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:147
+#: admin/partials/whsm-get-started.php:11
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:152
+msgid "Dotstore"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:154
+msgid "WooCommerce Plugins"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:155
+msgid "Wordpress Plugins"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:156
+msgid "Contact Support"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:24
+#: admin/partials/header/plugin-sidebar.php:28
+msgid "WP.org"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:37
+#: admin/partials/header/plugin-sidebar.php:59
+msgid "Upgrade to Hide Shipping Pro"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:41
+#: admin/partials/header/plugin-sidebar.php:63
+msgid "Conditional Hide Shipping – Select Different Shipping Source"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:42
+#: admin/partials/header/plugin-sidebar.php:64
+msgid "Conditional Hide Shipping – Advance Rule"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:43
+#: admin/partials/header/plugin-sidebar.php:65
+msgid "Conditional Hide Shipping – Start Date"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:44
+#: admin/partials/header/plugin-sidebar.php:66
+msgid "Conditional Hide Shipping – End Date"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:45
+#: admin/partials/header/plugin-sidebar.php:67
+msgid "Hide specific shipping method when “Free Shipping available."
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:46
+#: admin/partials/header/plugin-sidebar.php:68
+msgid "Basic Hide Shipping Rule – Cart Subtotal (After Discount) (£)"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:47
+#: admin/partials/header/plugin-sidebar.php:69
+msgid "Basic Hide Shipping Rule – Cart contains variable product"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:48
+#: admin/partials/header/plugin-sidebar.php:70
+msgid "Basic Hide Shipping Rule – Cart contains SKU’s product"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:51
+#: admin/partials/header/plugin-sidebar.php:73
+msgid "Get Premium Now »"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:80
+msgid "Like This Plugin?"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:94
+msgid "Your Review is very important to us as it helps us to grow more."
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:104
+#: admin/partials/header/plugin-sidebar.php:116
+msgid "Free vs Pro Feature"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:107
+#: admin/partials/header/plugin-sidebar.php:119
+msgid ""
+"Here’s an at a glance view of the main differences between Premium and free "
+"plugin features."
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:108
+#: admin/partials/header/plugin-sidebar.php:120
+msgid "Click here »"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:127
+msgid "Suggest A Feature"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:130
+msgid "Let us know how we can improve the plugin experience."
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:131
+msgid "Do you have any feedback &amp; feature requests?"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:132
+msgid "Submit Request »"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:138
+msgid "Changelog"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:141
+msgid ""
+"We improvise our products on a regular basis to deliver the best results to "
+"customer satisfaction."
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:142
+msgid "Visit Here »"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:150
+msgid "Our Popular Plugins"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:155
+#: admin/partials/header/plugin-sidebar.php:157
+msgid "Flat Rate Shipping Plugin For WooCommerce"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:161
+msgid "Conditional Product Fees For WooCommerce Checkout"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:163
+msgid "Extra Fees Plugin for WooCommerce"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:167
+#: admin/partials/header/plugin-sidebar.php:169
+msgid "Conditional Discount Rules For WooCommerce Checkout"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:173
+msgid "WooCommerce Blocker – Prevent Fake Orders"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:175
+msgid "WooCommerce Anti-Fraud"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:179
+#: admin/partials/header/plugin-sidebar.php:181
+msgid "Product Size Charts Plugin For WooCommerce"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:185
+#: admin/partials/header/plugin-sidebar.php:187
+msgid "WooCommerce Category Banner Management"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:191
+#: admin/partials/header/plugin-sidebar.php:193
+msgid "Product Attachment For WooCommerce"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:200
+msgid "VIEW ALL"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:207
+msgid "Five Star Support"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:210
+msgid ""
+"Got a question? Get in touch with theDotstore developers. We are happy to "
+"help!"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:211
+msgid "Submit a Ticket »"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:25
+msgid "When \"Free Shipping\" is available during Checkout"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:33
+msgid ""
+"Hide all other shipping method and when \"Free Shipping\" available on the "
+"cart page"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:40
+msgid ""
+"Hide all other shipping method and when \"Free Shipping\" or \"Local "
+"Pickup\" available on the cart page"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:51
+msgid ""
+"Hide specific shipping method when \"Free Shipping\" available on the cart "
+"page"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:61
+#: admin/partials/whsm-general-setting.php:72
+msgid ""
+"Hide specific shipping method when \"Free Shipping\" available on the cart "
+"page - "
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:82
+msgid "Conditional Hide shipping method Rules"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:87
+msgid ""
+"With this option, you can create conditional hide shipping method rules as "
+"your business needs"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:88
+msgid ""
+"After settings saved, new manu will display - Manage Conditional Hide "
+"Shipping Rules"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:138
+msgid "Enable Logging"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:149
+msgid "Want to hide all shipping methods from cart page?"
+msgstr ""
+
+#: admin/partials/whsm-general-setting.php:161
+msgid "Save Settings"
+msgstr ""
+
+#: admin/partials/whsm-get-started.php:17
+msgid "Using this plugin you can hide shipping based on below options :-"
+msgstr ""
+
+#: admin/partials/whsm-get-started.php:21
+msgid ""
+"<strong>Option 1: </strong>Hide all other shipping method and when \"Free "
+"Shipping\" available on the cart page."
+msgstr ""
+
+#: admin/partials/whsm-get-started.php:88
+msgid ""
+"<strong>Option 2: </strong>Hide all other shipping method and when \"Free "
+"Shipping\" or \"Local Pickup\" available on the cart page"
+msgstr ""
+
+#: admin/partials/whsm-get-started.php:154
+msgid ""
+"<strong>Option 3: </strong>Hide specific shipping method when \"Free "
+"Shipping\" available on the cart page"
+msgstr ""
+
+#: admin/partials/whsm-get-started.php:220
+msgid ""
+"<strong>Option 4: </strong>Conditional Hide shipping method Rules (With "
+"Compatible Shipping Plugin)"
+msgstr ""
+
+#: admin/partials/whsm-get-started.php:305
+msgid ""
+"<strong>Option 4: </strong>Conditional Hide shipping method Rules (With "
+"None Compatible Shipping Plugin)"
+msgstr ""
+
+#: admin/partials/whsm-get-started.php:390
+msgid ""
+"<strong>Important Note: </strong>This plugin is only compatible with "
+"WooCommerce version 3.0 and more."
+msgstr ""
+
+#: admin/partials/whsm-import-export.php:11
+msgid "Import & Export Hide Shipping Method Rule"
+msgstr ""
+
+#: admin/partials/whsm-import-export.php:16
+msgid "Export Hide Shipping Method Rule"
+msgstr ""
+
+#: admin/partials/whsm-import-export.php:21
+msgid "Export"
+msgstr ""
+
+#: admin/partials/whsm-import-export.php:26
+msgid ""
+"Export the hide shipping method rules settings for this site as a .json "
+"file. This allows you to easily import the configuration into another site. "
+"Please make sure simple product and variation products slugs must be unique."
+msgstr ""
+
+#: admin/partials/whsm-import-export.php:33
+msgid "Import Hide Shipping Method Rule"
+msgstr ""
+
+#: admin/partials/whsm-import-export.php:41
+msgid "Import"
+msgstr ""
+
+#: admin/partials/whsm-import-export.php:46
+msgid ""
+"Import the shipping method settings from a .json file. This file can be "
+"obtained by exporting the settings on another site using the form above."
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:27
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:28
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:31
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:35
+msgid "Installed Version"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:39
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:40
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:40
+msgid " to view license and terms of use."
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:43
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:46
+msgid "Quick Start"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:47
+msgid "Guide Documentation"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:49
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:54
+msgid "Localization"
+msgstr ""
+
+#: admin/partials/whsm-information-page.php:55
+msgid "German, French, Polish, Spanish"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:96
+#. translators: Number of years
+msgid "%s years"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:98
+msgid "a year"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:105
+#. translators: Number of weeks
+msgid "%s weeks"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:107
+msgid "a week"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:114
+#. translators: Number of days
+msgid "%s days"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:116
+msgid "a day"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:123
+#. translators: Number of hours
+msgid "%s hours"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:125
+msgid "an hour"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:132
+#. translators: Number of minutes
+msgid "%s minutes"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:134
+msgid "a minute"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:141
+#. translators: Number of seconds
+msgid "%s seconds"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:143
+msgid "a second"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:277
+#. translators: 1. Name
+msgid "%s WordPress Plugin"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:281
+#. translators: 1. Name
+msgid "Are you enjoying %s Plugin?"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:284
+#. translators: 1. Name, 2. Time
+msgid ""
+"You have been using %1$s for %2$s now. Mind leaving a review to let us know "
+"know what you think? We'd really appreciate it!"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:300
+msgid "Leave a Review"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods-user-feedback.php:302
+msgid "No thanks / I already have"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods.php:214
+#: woo-hide-shipping-methods.php:294
+msgid "Settings"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods.php:215
+msgid "Docs"
+msgstr ""
+
+#: includes/class-woo-hide-shipping-methods.php:216
+msgid "Support"
+msgstr ""
+
+#: public/class-woo-hide-shipping-methods-public.php:3372
+#: public/class-woo-hide-shipping-methods-public.php:3379
+msgid "Key %d does not exist in array"
+msgstr ""
+
+#: public/class-woo-hide-shipping-methods-public.php:3383
+msgid "Key %d does not contain scalar value"
+msgstr ""
+
+#: woo-hide-shipping-methods.php:275
+msgid ""
+"<strong>Hide Shipping Method For WooCommerce is successfully installed and "
+"ready to go.</strong>"
+msgstr ""
+
+#: woo-hide-shipping-methods.php:282
+msgid "Click on settings button and create your shipping method with multiple rules"
+msgstr ""
+
+#: woo-hide-shipping-methods.php:313
+msgid "WooCommerce"
+msgstr ""
+
+#: woo-hide-shipping-methods.php:318
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr ""

@@ -1,0 +1,36 @@
+2022-10-18T06:00:06+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-18T06:00:11+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-18T09:02:10+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-18T09:02:13+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-18T09:02:15+00:00 ERROR cURL error 77: error setting certificate verify locations:
+  CAfile: phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests/Transport/cacert.pem
+  CApath: /etc/ssl/certs
+2022-10-18T12:02:47+00:00 INFO Called process_payment with params order_id 12102
+2022-10-18T12:02:47+00:00 INFO Set transient with key razorpay_wc_order_id params order_id 12102
+2022-10-18T12:02:50+00:00 INFO Creating razorpay webhook
+2022-10-18T12:02:51+00:00 INFO getRazorpayPaymentParams 12102
+2022-10-18T12:02:51+00:00 INFO createOrGetRazorpayOrderId 12102 and is1ccCheckout is set to no
+2022-10-18T12:02:51+00:00 INFO Called createOrGetRazorpayOrderId with params orderId 12102 and is_magic_checkout_order is set to no
+2022-10-18T12:02:51+00:00 INFO razorpayOrderId  | sessionKey razorpay_order_id12102
+2022-10-18T12:02:51+00:00 INFO Called createRazorpayOrderId with params orderId 12102 and sessionKey razorpay_order_id12102
+2022-10-18T12:02:51+00:00 INFO Called getOrderCreationData with params orderId 12102
+2022-10-18T12:02:51+00:00 INFO Called getOrderCreationData with params orderId 12102 and is1ccOrder is set to no
+2022-10-18T12:02:51+00:00 INFO For order 12102
+2022-10-18T12:02:51+00:00 INFO {"receipt":12102,"amount":100,"currency":"INR","payment_capture":1,"app_offer":0,"notes":{"woocommerce_order_number":"12102"}}
+2022-10-18T12:02:52+00:00 INFO For order session key razorpay_order_id12102
+2022-10-18T12:06:04+00:00 INFO Called check_razorpay_response: wc_order_bhWQinjFP6P1S
+2022-10-18T12:06:04+00:00 INFO Get order id in check_razorpay_response: orderId 12102
+2022-10-18T12:06:04+00:00 INFO verifySignature orderId: 12102
+2022-10-18T12:06:04+00:00 INFO verifySignature attr
+2022-10-18T12:06:04+00:00 INFO {"razorpay_payment_id":"pay_KVED9wMirfj4do","razorpay_signature":"60523f3295a696e93186ad0a55c10f71b0f16ba13aa9f721069f279df2498353","razorpay_order_id":"order_KVEATyIR7icYv9"}
+2022-10-18T12:06:04+00:00 INFO updateOrder orderId: 12102 , razorpayPaymentId: pay_KVED9wMirfj4do , success: 1
+2022-10-18T12:06:04+00:00 INFO Order details check initiated step 1 for the orderId: 12102
+2022-10-18T12:06:04+00:00 INFO Woocommerce orderId: 12102 processed through callback

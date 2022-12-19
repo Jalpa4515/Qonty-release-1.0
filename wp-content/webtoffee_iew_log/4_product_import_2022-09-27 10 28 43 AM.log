@@ -1,0 +1,10 @@
+09-27-2022 @ 10:28:43 - ---[ New import started at 2022-09-27 10:28:43 ] PHP Memory: 2 GB, WP Memory: 40 MB
+09-27-2022 @ 10:28:43 - Preparing for import.
+09-27-2022 @ 10:28:43 - Row :1 - Parsing item.
+09-27-2022 @ 10:28:43 - Importing as new product ID:10655
+09-27-2022 @ 10:28:43 - Row :1 - Processing item.
+09-27-2022 @ 10:28:43 - Found simple product object. ID:10655
+09-27-2022 @ 10:28:43 - Setting Featured Image. URL:https://drive.google.com/file/d/19cx9wjredS4Lvor4GXgD3eGnvALv9Sr8?export=download
+09-27-2022 @ 10:28:44 - URL:https://drive.google.com/file/d/19cx9wjredS4Lvor4GXgD3eGnvALv9Sr8?export=download Reason:Error getting remote image https://drive.google.com/file/d/19cx9wjredS4Lvor4GXgD3eGnvALv9Sr8?export=download. Error: Too Many Requests
+09-27-2022 @ 10:28:44 - Row :1 - Product imported successfully.
+09-27-2022 @ 10:28:44 - ---[ Import ended at 2022-09-27 10:28:44]---
